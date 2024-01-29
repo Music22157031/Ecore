@@ -1,0 +1,128 @@
+[CALLER: RequestHandler.js:350:13 | MS: 1658310674253 | DATE: 7/20/2022, 11:51:14 AM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658310678518 | DATE: 7/20/2022, 11:51:18 AM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658310717773 | DATE: 7/20/2022, 11:51:57 AM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: RequestHandler.js:350:13 | MS: 1658310876390 | DATE: 7/20/2022, 11:54:36 AM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658310882182 | DATE: 7/20/2022, 11:54:42 AM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: RequestHandler.js:350:13 | MS: 1658310932878 | DATE: 7/20/2022, 11:55:32 AM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658310938658 | DATE: 7/20/2022, 11:55:38 AM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: RequestHandler.js:350:13 | MS: 1658323769230 | DATE: 7/20/2022, 3:29:29 PM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323774984 | DATE: 7/20/2022, 3:29:34 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323814240 | DATE: 7/20/2022, 3:30:14 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323853498 | DATE: 7/20/2022, 3:30:53 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323892756 | DATE: 7/20/2022, 3:31:32 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323932055 | DATE: 7/20/2022, 3:32:12 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658323962058 | DATE: 7/20/2022, 3:32:42 PM]
+-----------------------------------
+Unable to connect after 5 attempts.
+EXTRA INFO:
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (G:\Downloads\[DL]-CoreBot\node_modules\erela.js\dist\structures\Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+-----------------------------------
+[CALLER: RequestHandler.js:350:13 | MS: 1658494238918 | DATE: 7/22/2022, 2:50:38 PM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658494244656 | DATE: 7/22/2022, 2:50:44 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------
+[CALLER: RequestHandler.js:350:13 | MS: 1658508676380 | DATE: 7/22/2022, 6:51:16 PM]
+-------------------------------
+DiscordAPIError: Missing Access
+EXTRA INFO:
+Missing Access
+get /applications/609145471532924929/guilds/967505632385175594/commands (code: 50001)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1658508678254 | DATE: 7/22/2022, 6:51:18 PM]
+------------------------------
+getaddrinfo ENOTFOUND lavalink
+EXTRA INFO:
+Error: getaddrinfo ENOTFOUND lavalink
+    at GetAddrInfoReqWrap.onlookup [as oncomplete] (node:dns:71:26)
+------------------------------

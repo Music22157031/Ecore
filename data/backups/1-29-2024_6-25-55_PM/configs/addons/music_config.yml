@@ -8,11 +8,11 @@ Settings:
   Lavalink:
     Node:
       # You will have to create a lava link server and use your server's credentials.
-      host: 139.99.124.43
-      port: 7784
-      password: PasswordIsZoldy
+      host: lavalink
+      port: 433
+      password: password
   Spotify:
-    Enabled: true
+    Enabled: false
     ClientID: 0b0bd9b055554c789480b0b15cc60985
     ClientSecret: 19f8393574b04a93a47a6544248e8851
     # Create a Spotify application @ https://developer.spotify.com/dashboard to get the ID and secret

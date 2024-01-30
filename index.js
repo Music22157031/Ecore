@@ -288,3 +288,5 @@ installModules().then(async () => {
     }
   }
 });
+//24/7
+require("./server")();

@@ -348,3 +348,92 @@ Error: Unable to connect after 5 attempts.
     at listOnTimeout (node:internal/timers:559:17)
     at processTimers (node:internal/timers:502:7)
 -----------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706602899279 | DATE: 1/30/2024, 8:21:39 AM]
+-------------------------------
+Unexpected server response: 404
+EXTRA INFO:
+Error: Unexpected server response: 404
+    at ClientRequest.<anonymous> (/workspaces/Ecore/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at Socket.socketOnData (node:_http_client:482:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706602929647 | DATE: 1/30/2024, 8:22:09 AM]
+-------------------------------
+Unexpected server response: 404
+EXTRA INFO:
+Error: Unexpected server response: 404
+    at ClientRequest.<anonymous> (/workspaces/Ecore/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at Socket.socketOnData (node:_http_client:482:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706602960006 | DATE: 1/30/2024, 8:22:40 AM]
+-------------------------------
+Unexpected server response: 404
+EXTRA INFO:
+Error: Unexpected server response: 404
+    at ClientRequest.<anonymous> (/workspaces/Ecore/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at Socket.socketOnData (node:_http_client:482:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706602990377 | DATE: 1/30/2024, 8:23:10 AM]
+-------------------------------
+Unexpected server response: 404
+EXTRA INFO:
+Error: Unexpected server response: 404
+    at ClientRequest.<anonymous> (/workspaces/Ecore/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at Socket.socketOnData (node:_http_client:482:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706603020743 | DATE: 1/30/2024, 8:23:40 AM]
+-------------------------------
+Unexpected server response: 404
+EXTRA INFO:
+Error: Unexpected server response: 404
+    at ClientRequest.<anonymous> (/workspaces/Ecore/node_modules/erela.js/node_modules/ws/lib/websocket.js:767:7)
+    at ClientRequest.emit (node:events:526:28)
+    at HTTPParser.parserOnIncomingClient [as onIncoming] (node:_http_client:618:27)
+    at HTTPParser.parserOnHeadersComplete (node:_http_common:128:17)
+    at Socket.socketOnData (node:_http_client:482:22)
+    at Socket.emit (node:events:526:28)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at TCP.onStreamRead (node:internal/stream_base_commons:190:23)
+-------------------------------
+[CALLER: ultimatemusic.js:80 | MS: 1706603050745 | DATE: 1/30/2024, 8:24:10 AM]
+-----------------------------------
+Unable to connect after 5 attempts.
+EXTRA INFO:
+Error: Unable to connect after 5 attempts.
+    at Timeout._onTimeout (/workspaces/Ecore/node_modules/erela.js/dist/structures/Node.js:176:31)
+    at listOnTimeout (node:internal/timers:559:17)
+    at processTimers (node:internal/timers:502:7)
+-----------------------------------
